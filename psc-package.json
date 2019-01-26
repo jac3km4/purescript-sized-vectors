@@ -1,0 +1,14 @@
+{
+  "name": "purescript-sized-vectors",
+  "set": "psc-0.12.1",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "prelude",
+    "foldable-traversable",
+    "maybe",
+    "arrays",
+    "unfoldable",
+    "typelevel",
+    "distributive"
+  ]
+}
